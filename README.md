@@ -1,5 +1,4 @@
-![Hello Macintosh](https://github.com/user-attachments/assets/d3f54c2d-1304-4711-84b7-3a3fdc7518a6)
-
+![Hello Macintosh Smol](https://github.com/user-attachments/assets/c9a20bde-32e8-4652-8b60-17129c7c6928)
 
 # About Me:
 Howdy! I'm Sumit Verma 👾<br><br>🌱 I’m currently learning Advanced Machine Learning and Big Data Technologies<br>🔭 I’m currently working on Enhancing my Data Science and Machine Learning Skills<br>🤝 I’m looking to collaborate on Data Analysis, Machine Learning Projects, and Business Intelligence Solutions<br>💬 Ask me about Data Analysis, Machine Learning, and Predictive Analytics<br>📫 How to reach me: [Mail: sumitjnu19@gmail.com](mailto:sumitjnu19@gmail.com) | [LinkedIn: sumit-verma19](https://www.linkedin.com/in/sumit-verma19/)
